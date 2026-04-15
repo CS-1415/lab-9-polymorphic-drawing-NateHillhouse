@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab08.Main/Lab08.Main.csproj" />
+  <Project Path="Lab08.Tests/Lab08.Tests.csproj" />
+  <Project Path="Lab08/Lab08.csproj" />
+</Solution>
