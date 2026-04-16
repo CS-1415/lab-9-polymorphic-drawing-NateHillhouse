@@ -8,8 +8,10 @@
     ".NETCoreApp,Version=v10.0": {
       "Lab08.Tests/1.0.0": {
         "dependencies": {
+          "Lab08": "1.0.0",
+          "Lab08.Main": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.14.0",
-          "NUnit": "4.3.2",
+          "NUnit": "4.5.1",
           "NUnit3TestAdapter": "5.0.0"
         },
         "runtime": {
@@ -510,15 +512,15 @@
           }
         }
       },
-      "NUnit/4.3.2": {
+      "NUnit/4.5.1": {
         "runtime": {
           "lib/net8.0/nunit.framework.dll": {
-            "assemblyVersion": "4.3.2.0",
-            "fileVersion": "4.3.2.0"
+            "assemblyVersion": "4.5.1.0",
+            "fileVersion": "4.5.1.0"
           },
           "lib/net8.0/nunit.framework.legacy.dll": {
-            "assemblyVersion": "4.3.2.0",
-            "fileVersion": "4.3.2.0"
+            "assemblyVersion": "4.5.1.0",
+            "fileVersion": "4.5.1.0"
           }
         }
       },
@@ -526,6 +528,25 @@
         "dependencies": {
           "Microsoft.Testing.Extensions.VSTestBridge": "1.5.3",
           "Microsoft.Testing.Platform.MSBuild": "1.5.3"
+        }
+      },
+      "Lab08/1.0.0": {
+        "runtime": {
+          "Lab08.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Lab08.Main/1.0.0": {
+        "dependencies": {
+          "Lab08": "1.0.0"
+        },
+        "runtime": {
+          "Lab08.Main.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -613,12 +634,12 @@
       "path": "newtonsoft.json/13.0.3",
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
     },
-    "NUnit/4.3.2": {
+    "NUnit/4.5.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-puVXayXNmEu7MFQSUswGmUjOy3M3baprMbkLl5PAutpeDoGTr+jPv33qAYsqxywi2wJCq8l/O3EhHoLulPE1iQ==",
-      "path": "nunit/4.3.2",
-      "hashPath": "nunit.4.3.2.nupkg.sha512"
+      "sha512": "sha512-x1sIqU9i0IkxqFayqthzmJs/75jTMbrfNMixj4vtfTi7rRzGbtuY27V+iAhfTY02u5k2qvW3QBGM414OG4q8Lw==",
+      "path": "nunit/4.5.1",
+      "hashPath": "nunit.4.5.1.nupkg.sha512"
     },
     "NUnit3TestAdapter/5.0.0": {
       "type": "package",
@@ -626,6 +647,16 @@
       "sha512": "sha512-sy4cLoUAdE6TDM4wNX5gmNCyhMev5wUz4cA6ZRf/aON9vf9t4xTVGLj/4huhDKcS4dFfmVVcgcP70yC7WC9kKg==",
       "path": "nunit3testadapter/5.0.0",
       "hashPath": "nunit3testadapter.5.0.0.nupkg.sha512"
+    },
+    "Lab08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab08.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

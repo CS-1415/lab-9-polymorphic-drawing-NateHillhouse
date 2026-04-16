@@ -156,3 +156,12 @@ C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-dra
 C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\obj\Debug\net10.0\Lab08.Tests.pdb
 C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\obj\Debug\net10.0\Lab08.Tests.genruntimeconfig.cache
 C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\obj\Debug\net10.0\ref\Lab08.Tests.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_Lab08.Tests
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_Lab08.Tests
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.Main.deps.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.Main.runtimeconfig.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.Main.exe
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.Main.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-9-polymorphic-drawing-NateHillhouse\Lab08.Tests\bin\Debug\net10.0\Lab08.Main.pdb

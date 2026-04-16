@@ -580,7 +580,7 @@
           }
         }
       },
-      "NUnit/4.3.2": {
+      "NUnit/4.5.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/nunit.framework.dll": {
@@ -1454,10 +1454,10 @@
         "packageIcon.png"
       ]
     },
-    "NUnit/4.3.2": {
-      "sha512": "puVXayXNmEu7MFQSUswGmUjOy3M3baprMbkLl5PAutpeDoGTr+jPv33qAYsqxywi2wJCq8l/O3EhHoLulPE1iQ==",
+    "NUnit/4.5.1": {
+      "sha512": "x1sIqU9i0IkxqFayqthzmJs/75jTMbrfNMixj4vtfTi7rRzGbtuY27V+iAhfTY02u5k2qvW3QBGM414OG4q8Lw==",
       "type": "package",
-      "path": "nunit/4.3.2",
+      "path": "nunit/4.5.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1479,7 +1479,7 @@
         "lib/net8.0/nunit.framework.legacy.dll",
         "lib/net8.0/nunit.framework.legacy.xml",
         "lib/net8.0/nunit.framework.xml",
-        "nunit.4.3.2.nupkg.sha512",
+        "nunit.4.5.1.nupkg.sha512",
         "nunit.nuspec"
       ]
     },
@@ -1530,8 +1530,8 @@
     },
     "Lab08/1.0.0": {
       "type": "project",
-      "path": "../Lab08/Lab08.csproj",
-      "msbuildProject": "../Lab08/Lab08.csproj"
+      "path": "../lab08/Lab08.csproj",
+      "msbuildProject": "../lab08/Lab08.csproj"
     },
     "Lab08.Main/1.0.0": {
       "type": "project",
@@ -1544,7 +1544,7 @@
       "Lab08 >= 1.0.0",
       "Lab08.Main >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.0",
-      "NUnit >= 4.3.2",
+      "NUnit >= 4.5.1",
       "NUnit.Analyzers >= 4.7.0",
       "NUnit3TestAdapter >= 5.0.0",
       "coverlet.collector >= 6.0.4"
@@ -1586,8 +1586,8 @@
             "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08.Main\\Lab08.Main.csproj": {
               "projectPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08.Main\\Lab08.Main.csproj"
             },
-            "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\Lab08.csproj": {
-              "projectPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\Lab08.csproj"
+            "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\Lab08.csproj": {
+              "projectPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\Lab08.csproj"
             }
           }
         }
@@ -1614,7 +1614,7 @@
           },
           "NUnit": {
             "target": "Package",
-            "version": "[4.3.2, )"
+            "version": "[4.5.1, )"
           },
           "NUnit.Analyzers": {
             "target": "Package",

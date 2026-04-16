@@ -1,7 +1,9 @@
+using System.Diagnostics;
 using NUnit.Framework;
+using NUnit;
+using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 
 namespace Lab08.Tests;
-
 public class CircleTests
 {
     Circle circle;
@@ -24,7 +26,7 @@ public class CircleTests
         Assert.AreEqual(10, circle.CenterY);
         Assert.AreEqual(2, circle.Radius);
     }
-    /*
+    
     [Test]
     public void HasCorrectBoundingBox()
     {
@@ -33,12 +35,15 @@ public class CircleTests
         Assert.AreEqual(8 + 2, shape.UpperBoundX);
         Assert.AreEqual(10 + 2, shape.UpperBoundY);
     }
+    /*
 
     [Test]
     public void CenterIsIncluded()
     {
         Assert.IsTrue(shape.ContainsPoint(8, 10));
     }
+
+    /*
 
     [Test]
     public void ContainsAllFourPointsOfTheCompass()

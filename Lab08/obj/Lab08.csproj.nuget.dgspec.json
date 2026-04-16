@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\Lab08.csproj": {}
+    "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\Lab08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\Lab08.csproj": {
+    "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\Lab08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\Lab08.csproj",
+        "projectUniqueName": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\Lab08.csproj",
         "projectName": "Lab08",
-        "projectPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\Lab08.csproj",
+        "projectPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\Lab08.csproj",
         "packagesPath": "C:\\Users\\nhill_mliw72r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\Lab08\\obj\\",
+        "outputPath": "C:\\Users\\nhill_mliw72r\\Documents\\Code_Projects\\my-code-dir\\lab-9-polymorphic-drawing-NateHillhouse\\lab08\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

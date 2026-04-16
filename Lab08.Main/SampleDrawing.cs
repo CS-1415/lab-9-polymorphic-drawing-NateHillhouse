@@ -1,4 +1,6 @@
 using Lab08;
+
+Console.WriteLine("X");
 /*
 List<IGraphic2D> shapes = new List<IGraphic2D> {
     new Circle(10, 10, 5) { BackgroundColor = ConsoleColor.DarkYellow, DisplayChar = ' ' },
