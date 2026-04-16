@@ -12,11 +12,11 @@ public class Circle : AbstractGraphic2D
 
     public override decimal UpperBoundY => CenterY + Radius;
 
-    public int CenterX;
-    public int CenterY;
-    public int Radius;
+    public decimal CenterX;
+    public decimal CenterY;
+    public decimal Radius;
 
-    public Circle(int x, int y, int radius)
+    public Circle(decimal x, decimal y, decimal radius)
     {
         CenterX = x;
         CenterY = y;
