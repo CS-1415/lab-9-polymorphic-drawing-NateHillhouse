@@ -26,9 +26,13 @@ public class Circle : AbstractGraphic2D
 
     public override bool ContainsPoint(decimal x, decimal y)
     {
+
+        decimal widthFromCenter = Math.Abs(x - CenterX);
+        decimal heightFromCenter = Math.Abs( y - CenterY);
+
         if (x > UpperBoundX || x < LowerBoundX) return false;
         else if (y > UpperBoundY || y < LowerBoundY) return false;
-        else if ((x * x) + (y * y) > (Radius * Radius)) return false;
+        else if ((widthFromCenter * widthFromCenter) + (heightFromCenter * heightFromCenter) > (Radius * Radius)) return false;
         else return true;
     }
 }

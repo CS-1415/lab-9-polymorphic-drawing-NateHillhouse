@@ -50,7 +50,7 @@ public class CircleTests
         Assert.IsTrue(shape.ContainsPoint(8, 10 - 2));
         Assert.IsTrue(shape.ContainsPoint(8, 10 + 2));
     }
-    /*
+    
     [Test]
     public void ShouldNotContainFourCorners()
     {
@@ -59,5 +59,5 @@ public class CircleTests
         Assert.IsFalse(shape.ContainsPoint(8 - 2, 10 + 2));
         Assert.IsFalse(shape.ContainsPoint(8 + 2, 10 + 2));
     }
-    */
+    
 }
