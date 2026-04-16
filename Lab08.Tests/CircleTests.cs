@@ -42,8 +42,6 @@ public class CircleTests
         Assert.IsTrue(shape.ContainsPoint(8, 10));
     }
 
-    /*
-
     [Test]
     public void ContainsAllFourPointsOfTheCompass()
     {
@@ -52,7 +50,7 @@ public class CircleTests
         Assert.IsTrue(shape.ContainsPoint(8, 10 - 2));
         Assert.IsTrue(shape.ContainsPoint(8, 10 + 2));
     }
-
+    /*
     [Test]
     public void ShouldNotContainFourCorners()
     {
