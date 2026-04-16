@@ -1,7 +1,7 @@
 using NUnit.Framework;
 
 namespace Lab08.Tests;
-/*
+
 public class RectangleTests
 {
     Rectangle rectangle;
@@ -22,7 +22,7 @@ public class RectangleTests
         Assert.AreEqual(5, rectangle.Width);
         Assert.AreEqual(6, rectangle.Height);
     }
-
+    /*
     [Test]
     public void CheckLowerBounds()
     {
@@ -62,6 +62,5 @@ public class RectangleTests
         Assert.IsFalse(shape.ContainsPoint(3, 10 + 0.1m));
         Assert.IsFalse(shape.ContainsPoint(8 + 0.1m, 10));
     }
+    */
 }
-
-*/
