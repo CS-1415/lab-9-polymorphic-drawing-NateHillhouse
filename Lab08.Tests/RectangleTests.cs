@@ -30,7 +30,7 @@ public class RectangleTests
         Assert.AreEqual(3, shape.LowerBoundX);
         Assert.AreEqual(4, shape.LowerBoundY);
     }
-    /*
+    
     [Test]
     public void CheckUpperBounds()
     {
@@ -38,7 +38,7 @@ public class RectangleTests
         Assert.AreEqual(3 + 5, shape.UpperBoundX);
         Assert.AreEqual(4 + 6, shape.UpperBoundY);
     }
-
+    /*
     [Test]
     public void MiddleOfShapeIsIncluded()
     {
