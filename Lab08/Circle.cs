@@ -28,6 +28,7 @@ public class Circle : AbstractGraphic2D
     {
         if (x > UpperBoundX || x < LowerBoundX) return false;
         else if (y > UpperBoundY || y < LowerBoundY) return false;
+        else if ((x * x) + (y * y) > (Radius * Radius)) return false;
         else return true;
     }
 }
