@@ -44,7 +44,7 @@ public class RectangleTests
     {
         Assert.IsTrue(shape.ContainsPoint(5.5m, 7));
     }
-    /*
+    
     [Test]
     public void CornersIncluded()
     {
@@ -53,7 +53,7 @@ public class RectangleTests
         Assert.IsTrue(shape.ContainsPoint(3, 10));
         Assert.IsTrue(shape.ContainsPoint(8, 10));
     }
-
+    /*
     [Test]
     public void OutsideOfCornersNotIncludedInShape()
     {
